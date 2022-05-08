@@ -1,9 +1,9 @@
 # Reading Notes
-> This is the repository for taking notes for **Code 301***Intermediate Software Development*
+> This is the site for taking notes from readin assignments for **Code Fellow** **Code 301** *Intermediate Software Development* Cheers!
 
 Git basic commands:
 ```
-git status
+git commit -m "Messages"
 git add
-git commit
+git push
 ```
