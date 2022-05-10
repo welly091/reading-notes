@@ -13,4 +13,4 @@ git add .
 git commit -m "Messages"
 git push
 ```
-Read Class 01 (https://github.com/welly091/reading-notes/edit/main/Read: Class 01)
+Read Class 01 (https://github.com/welly091/reading-notes/blob/main/Read:%20Class%2001)
