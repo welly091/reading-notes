@@ -14,5 +14,7 @@ git commit -m "Messages"
 git push
 ```
 <a href="ReadClass01.md">Class 01 reading notes</a>
+
 <a href="ReadClass02.md">Class 02 reading notes</a>
+
 <a href="ReadClass03.md">Class 03 reading notes</a>
