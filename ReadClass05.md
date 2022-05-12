@@ -1,7 +1,7 @@
-What is the single responsibiligy principle and how does it apply to components?
-  - It means that each component does once thing only. If a components have many things to do, break down the code and create more sub-components to do those jobs.
+What is the single responsibility principle and how does it apply to components?
+  - It means that each component does one thing only. If a components have many things to do, break down the code and create more sub-components to do those jobs.
 What does it mean to build a 'static' version of your application?
-  - Build a static version means that you build smiliar app only use props and render() methods but no states.
+  - Build a static version means that you build similar app only use props and render() methods but no states.
 Once you have a static application, what do you want to add?
   - Add a data model so that the static version app can render it.
 What are the three questions you can ask to determine if something is state?
