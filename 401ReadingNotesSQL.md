@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 #SELECT
 -SELECT can select strings or numbers from database. Concatenation or calculation can be done inside select.
 -e.g. SELECT 164/8, SELECT 'We'+'Are'
