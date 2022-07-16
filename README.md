@@ -1,4 +1,3 @@
-# 401 Python Course Reading Notes
 This is the site for taking notes from readin assignments for **Code Fellow Code 401 Python Course** Cheers!
 
 Code Fellow Courses:
