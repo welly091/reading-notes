@@ -13,6 +13,8 @@ git commit -m "Messages"
 git push
 ```
 # 1st Week
+[Link to ReadClass02](./ReadClass02.html).
+[Link to another page](./another-page.html).
 ## Class 1
 ## Class 2
 ## Class 3
