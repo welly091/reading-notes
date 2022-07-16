@@ -21,24 +21,28 @@ git push
 - [Class 3](./401ReadingNotes_3.html)
 - [Class 4](./401ReadingNotes_4.html)
 - [Class 5](./401ReadingNotes_5.html)
+
 # 2nd Week
 - [Class 6](./401ReadingNotes_6.html)
 - [Class 7](./401ReadingNotes_7.html)
 - [Class 8](./401ReadingNotes_8.html)
 - [Class 9](./401ReadingNotes_9.html)
 - [Class 10](./401ReadingNotes_10.html)
+
 # 3rd Week
 - [Class 11](./401ReadingNotes_11.html)
 - [Class 12](./401ReadingNotes_12.html)
 - [Class 13](./401ReadingNotes_13.html)
 - [Class 14](./401ReadingNotes_14.html)
 - [Class 15](./401ReadingNotes_15.html)
+
 # 4th Week
 - [Class 16](./401ReadingNotes_16.html)
 - [Class 17](./401ReadingNotes_17.html)
 - [Class 18](./401ReadingNotes_18.html)
 - [Class 19](./401ReadingNotes_19.html)
 - [Class 20](./401ReadingNotes_20.html)
+
 # 5th Week
 # 6th Week
 # 7th Week
