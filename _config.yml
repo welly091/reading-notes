@@ -1,2 +1,5 @@
 theme: jekyll-theme-leap-day
 title: [Welcome to Yu-Wei's reading notes for 401 Python course in Code Fellows]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
