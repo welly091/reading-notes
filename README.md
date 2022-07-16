@@ -13,7 +13,7 @@ git commit -m "Messages"
 git push
 ```
 # Learn SQL Reading Notes
-- [Link for Notes](./401ReadingNotesSQL.md)
+- [Link for Notes](./401ReadingNotesSQL.html)
 
 # 1st Week
 - [Class 1](./401ReadingNotes_1.html)
