@@ -2,19 +2,31 @@
 layout: default
 ---
 
-#SELECT
--SELECT can select strings or numbers from database. Concatenation or calculation can be done inside select.
--e.g. SELECT 164/8, SELECT 'We'+'Are'
--e.g. SELECT * -> 'star' means 'all'
 
-#FROM
--FROM means from specific database.
+# Basic SQL
+## SELECT
+- SELECT can select strings or numbers from database. Concatenation or calculation can be done inside select.
+- e.g. SELECT 164/8, SELECT 'We'+'Are'
+- e.g. SELECT * -> 'star' means 'all'
 
-#ORDER BY
--Sort the selected data by specific order in specific column.
--DESC-> descending ; ASC -> ascending
+## FROM
+- FROM means from specific database.
 
-#LIMIT
--Choose how many data we want to select.
--e.g. SELECT * FROM students LIMIT 3  -> only choose three data from student table.
+## ORDER BY
+- Sort the selected data by specific order in specific column.
+- DESC-> descending ; ASC -> ascending
+
+## LIMIT
+- Choose how many data we want to select.
+- e.g. SELECT * FROM students LIMIT 3  -> only choose three data from student table.
+
+## OFFSET
+- The position you want to start in data
+- e.g. SELECT * FROM students LIMIT 5 OFFSET 2 -> Starts from 3rd data to 8th data.
+
+### What is schema?
+> Schema = tables + relationships
+
+
+![psql Schema Shortcuts](https://i.imgur.com/eeJQQ7T.jpg)
 
