@@ -15,6 +15,9 @@ git push
 # Learn SQL Reading Notes
 - [Link for Notes](./401ReadingNotesSQL.html)
 
+# Practice in the Terminal
+- [Link for Notes](./401ReadingNotesTerminal.html)
+
 # 1st Week
 - [Class 1](./401ReadingNotes_1.html)
 - [Class 2](./401ReadingNotes_2.html)
