@@ -59,4 +59,4 @@
 
 
 Cheat Sheet
-![cheat_sheet]('./cheat_sheet.jpg')
+![cheat_sheet](cheat_sheet.JPG)
