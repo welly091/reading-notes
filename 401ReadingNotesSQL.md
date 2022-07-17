@@ -34,7 +34,6 @@ layout: default
 
 
 # Mid-Level SQL
-
 ## #WHERE
 - WHERE can have conditions followed by it which is either true or false. 
 - e.g. SELECT * FROM studens WHERE name = 'Brenda'
@@ -69,10 +68,20 @@ layout: default
 - IS NOT NULL : matches all non NULL values
 
 ## Aggregate Function()
-### COUNT()
+## #COUNT()
 - Count selected items
-- DISTINCT : 
+- COUNT DISTINCT : 
   - Add DISTINCT clause to eliminate the repetitive appearance. 
   - e.g. COUNT(DISTINCT expr,[expr...])
-### AS
+## #AS
 - Give a new key word for selected item
+## #MAX
+- Return the largest number in a sets
+## #MIN
+- Return the smallest in a sets
+## #EVERY
+- Return **true** if all data inside is true
+## #AVG
+- Return the average of the set of numbers
+## #SUM
+- Return the sum of all the values in the set
