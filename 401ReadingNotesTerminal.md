@@ -1,4 +1,6 @@
-# Linux basic command line
+# Linux basic command line 
+[Tutorials for Linux command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
 
 ## Paths...
 - ~(tilde): shortcut for home directory
@@ -24,7 +26,7 @@
 ## #cd [location]
 - Go to specific directory
 
-## file
+## #file
 - Open a file
 - If a file name has spaces, add 'quotes' or backslash ('\\') with spaces so that it can be opened.
 
@@ -51,7 +53,10 @@
   - my [options] [current file name] [new file name]
 
 ## #rm [options] \<file>
+> Attention: there is no undo feature for this command. BE CAREFUL if you want to use this.
 - Remove a file
 - Add '-r' along with it can delete directories with all files/directories contained within.
-- Attention: there is no undo feature for this command. BE CAREFUL if you want to use this.
 
+
+Cheat Sheet
+<img src='./cheat_sheet.jpg' alt='cheat_sheet' />
