@@ -59,4 +59,4 @@
 
 
 Cheat Sheet
-<img src='./cheat_sheet.jpg' alt='cheat_sheet' />
+![cheat_sheet]('./cheat_sheet.jpg')
