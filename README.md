@@ -13,10 +13,11 @@ git commit -m "Messages"
 git push
 ```
 # Learn SQL Reading Notes
-- [Basic SQL](./401ReadingNotesSQL_1.html)
-- [Mid-Level SQL](./401ReadingNotesSQL_2.html)
-- [UNION](./401ReadingNotesSQL_3.html)
-- [Copy Data Between Tables](./401ReadingNotesSQL_4.html)
+- [Basic SQL](./SQL_notes/401ReadingNotesSQL_1.html)
+- [Mid-Level SQL](./SQL_notes/401ReadingNotesSQL_2.html)
+- [UNION](./SQL_notes/401ReadingNotesSQL_3.html)
+- [Copy Data Between Tables](./SQL_notes/401ReadingNotesSQL_4.html)
+- [SQL Bolt](./SQL_notes/401ReadingNotesSQL_5.html)
 
 # Practice in the Terminal
 - [Link for Notes](./401ReadingNotesTerminal.html)
