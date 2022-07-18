@@ -27,7 +27,6 @@ layout: default
 - The position you want to start in data
 - e.g. SELECT * FROM students LIMIT 5 OFFSET 2 -> Starts from 3rd data to 8th data.
 
-
 ## What is schema?
 > Schema = tables + relationships
 
