@@ -83,7 +83,7 @@
 - TIME: time
 - INTERVAL: interval between two date/times
 ## ... and patterns:
-![patterns](./date_patterns.JPG)
+![patterns](./SQL_reading_img/date_patterns.JPG)
 
 PostgreSQL supports a number of special values, or functions to help bet the current
 DATE, TIMESTAMP or TIME. The most used ones are
