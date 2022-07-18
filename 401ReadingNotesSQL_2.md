@@ -38,6 +38,7 @@
 - COUNT DISTINCT : 
   - Add DISTINCT clause to eliminate the repetitive appearance. 
   - e.g. COUNT(DISTINCT expr,[expr...])
+
 ## #AS
 - Give a new key word for selected item
 ## #MAX
