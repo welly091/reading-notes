@@ -3,6 +3,16 @@
 [Beginners Guide to Big O](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
 > This website demonstrate what Big O is. It is very straight forward and easy to understand what that is. Big O is very important for whiteboard interview.
 
+O(1): Execute in the same time
+
+O(n): Performance will grow linearly and in direct proportion to the size of the data. 
+
+O(N^2): Performance proportional to the square of the size of the input data set. 
+
+O(2^N): Growth doubles with each addition to the data set. e.g. Fibonacci numbers.
+
+O(log N): Iterate halving of data like binary search tree.
+
 [PyCon 2015](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 
 >This video is like a review for me. It demonstrates hole basic concepts of Pythons and how to use Python. 
