@@ -1,1 +1,1 @@
-![copyData](./copyData.jpg)
+![copyData](./copyData.JPG)
