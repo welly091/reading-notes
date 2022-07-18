@@ -98,3 +98,12 @@ layout: default
 - LEFT OUTER: return matches and all rows from the left listed table
 - RIGHT OUTER: return matches and all rows from the right listed table
 - FULL OUTER: return matches and all rows from both tables
+
+# DATE and TIME functions
+## There are four ways:
+- TIMESTAMP: date & time
+- DATE: date
+- TIME: time
+- INTERVAL: interval between two date/times
+## ... and patterns:
+![patterns](./date_patterns.JPG)
