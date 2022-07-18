@@ -9,6 +9,7 @@ layout: default
 - SELECT can select strings or numbers from database. Concatenation or calculation can be done inside select.
 - e.g. SELECT 164/8, SELECT 'We'+'Are'
 - e.g. SELECT * -> 'star' means 'all'
+- If you select data but want to exclude a column, use two dashes ('--') to 
 
 ## #FROM
 - FROM means from specific database.
