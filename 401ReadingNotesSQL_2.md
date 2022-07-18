@@ -44,7 +44,6 @@
 - IS NULL : matches NULL values
 - IS NOT NULL : matches all non NULL values
 
-## Aggregate Function()
 ## #COUNT()
 - Count selected items
 - COUNT DISTINCT : 
