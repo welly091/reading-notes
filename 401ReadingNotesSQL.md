@@ -107,3 +107,10 @@ layout: default
 - INTERVAL: interval between two date/times
 ## ... and patterns:
 ![patterns](./date_patterns.JPG)
+
+PostgreSQL supports a number of special values, or functions to help bet the current
+DATE, TIMESTAMP or TIME. The most used ones are
+**CURRENT_DATE**
+**CURRENT_TIME**
+**CURRENT_TIMESTAMP**
+and they are used by just putting them in the query
