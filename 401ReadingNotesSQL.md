@@ -85,3 +85,16 @@ layout: default
 - Return the average of the set of numbers
 ## #SUM
 - Return the sum of all the values in the set
+## #GROUP BY
+- Tell the database how to group a result set
+
+# JOIN Relationships- Combine tables to see relationships
+## Primary key
+> A column in a table that has a **unique identiifier** for each row.
+## Foreign key
+> Columns in a table that specify a link to a primary key in another table.
+## JOIN ... ON
+- INNER: DEFAULT: returns only the rows where matches were found
+- LEFT OUTER: return matches and all rows from the left listed table
+- RIGHT OUTER: return matches and all rows from the right listed table
+- FULL OUTER: return matches and all rows from both tables
