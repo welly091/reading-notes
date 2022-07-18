@@ -16,6 +16,7 @@ git push
 - [Basic SQL](./401ReadingNotesSQL_1.html)
 - [Mid-Level SQL](./401ReadingNotesSQL_2.html)
 - [UNION](./401ReadingNotesSQL_3.html)
+- [Copy Data Between Tables](./401ReadingNotesSQL_4.html)
 
 # Practice in the Terminal
 - [Link for Notes](./401ReadingNotesTerminal.html)
