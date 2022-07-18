@@ -14,6 +14,7 @@ git push
 ```
 # Learn SQL Reading Notes
 - [Link for Notes](./401ReadingNotesSQL.html)
+- [UNION](./401ReadingNotesSQL_2.html)
 
 # Practice in the Terminal
 - [Link for Notes](./401ReadingNotesTerminal.html)
