@@ -5,6 +5,7 @@
 e.g. 
 
 student table:
+
 | First_Name  | Last_Name |
 | ------------- | ------------- |
 | Joe  | Hash  |
@@ -13,6 +14,7 @@ student table:
 | Tom  | Louis  |
 
 facebook table:
+
 | First_Name  | Last_Name |
 | ------------- | ------------- |
 | Kim | Carol  |
@@ -35,6 +37,7 @@ facebook table:
 
 
 **SELECT * FROM students UNION ALL SELECT * FROM teachers** :
+
 | First_Name  | Last_Name |
 | ------------- | ------------- |
 | Joe  | Hash  |
