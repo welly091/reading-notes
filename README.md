@@ -13,8 +13,9 @@ git commit -m "Messages"
 git push
 ```
 # Learn SQL Reading Notes
-- [Link for Notes](./401ReadingNotesSQL.html)
-- [UNION](./401ReadingNotesSQL_2.html)
+- [Basic SQL](./401ReadingNotesSQL_1.html)
+- [Mid-Level SQL](./401ReadingNotesSQL_2.html)
+- [UNION](./401ReadingNotesSQL_3.html)
 
 # Practice in the Terminal
 - [Link for Notes](./401ReadingNotesTerminal.html)
