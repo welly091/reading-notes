@@ -65,4 +65,4 @@ Recursion is using the same function with calculated/updated input value over an
   - -k <expression> is used to represent the substring to match
   - -v increases the verbosity
 - Pytest allows us to set various attributes for the test methods using pytest markers, **@pytest.mark.<name>**. To use markers in the test file, we need to import pytest on the test files.
-  e.g. ![pytest.mark](https://i.imgur.com/S9bc9Tp.jpg)
+![pytest.mark](https://i.imgur.com/S9bc9Tp.jpg)
