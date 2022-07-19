@@ -57,5 +57,12 @@ Recursion is using the same function with calculated/updated input value over an
 - Packages allow for a hierarchical structuring of the module namespace using dot notation.
 - If a file named **\_\_init\_\_.py**, it is invoked when the package or a module in the package is imported. This can be used for execution of package initialization code.
 
-[PyTest](https://www.guru99.com/pytest-tutorial.html)
+# [PyTest Tutorial](https://www.guru99.com/pytest-tutorial.html)
 - PyTest is a testing framework that allows users to write test codes using Python programming language.
+- **assert** is the result you want to compare with the function.
+![assert](https://i.imgur.com/sfYXk3a.jpg)
+- py.test -k method1 -v
+  - -k <expression> is used to represent the substring to match
+  - -v increases the verbosity
+- Pytest allows us to set various attributes for the test methods using pytest markers, **@pytest.mark.<name>**. To use markers in the test file, we need to import pytest on the test files.
+  e.g. ![pytest.mark](https://i.imgur.com/S9bc9Tp.jpg)
