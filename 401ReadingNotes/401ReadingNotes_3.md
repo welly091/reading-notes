@@ -64,8 +64,8 @@ assert ('linux' in sys.platform), "This code runs on Linux only."
 ```
 ## Try...except
 
-The try...except block is used to handle exceptions. Anything wrong in try block will go stright to exception block and the codes in exception block will be triggered. This make the program conitnue to run without crash.
-> Catching exception hides all errors so that you won't know what error you encounter when you use bare except clause. Therefore, you should alway refer the specific error excetpion you want to catch. e.g. ```try...except Assertion Error as error:...```
+The try...except block is used to handle exceptions. Anything wrong in try block will go straight to exception block and the codes in exception block will be triggered. This make the program continue to run without crash.
+> Catching exception hides all errors so that you won't know what error you encounter when you use bare except clause. Therefore, you should always refer the specific error excetpion you want to catch. e.g. ```try...except Assertion Error as error:...```
 
 ## Try...except...else ... finally
 > If there is not exception needs to handle, then got to **else** block. The **finally** block will run no matter there is an exception or not.
