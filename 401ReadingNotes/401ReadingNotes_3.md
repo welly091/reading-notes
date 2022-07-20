@@ -9,12 +9,12 @@ Close a file
 
 Second arguments in open():
 
-|Character|Meaning|
-|---------|-------|
-|'r'|Open for reading(default)|
-|'w'|Open for writing, truncating(overwriting) the file first|
-|'rb' or 'wb'|Open in binary mode(read/write using byte data)|
-|'a'|Append a file|
+| Character | Meaning |
+| --------- | ------- |
+| 'r' | Open for reading(default) |
+| 'w' | Open for writing, truncating(overwriting) the file first |
+| 'rb' or 'wb' | Open in binary mode(read/write using byte data) |
+| 'a' | Append a file |
 
 We usually use try-finally for handling files:
 
